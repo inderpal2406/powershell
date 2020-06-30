@@ -9,3 +9,4 @@ Contains powershell practice scripts
 3. [array_arraylists.ps1](./scripts/array_arraylists.ps1): To perform different operations on array and array list.
 4. [HashTable.ps1](./scripts/HashTable.ps1): To perform operations on a hash table.
 5. [loops_over_collections.ps1](./scripts/loops_over_collections.ps1): To loop over different values in a collection.
+6. [functions.ps1](./scripts/functions.ps1): To demonstrate different declarations of functions and concept of function.
